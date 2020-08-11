@@ -1,6 +1,6 @@
-struct Node:    defines the structure for the Node structure. Each Node structure is 
-		composed of a string variable as well as as a struct Node pointer 
-	        that points to the next node in a LinkedList.
+This C program implements the bucket sorting algorithm on 8 linked lists 
+of nodes in order to organize their string contents into alphabetical order.
+
 
 struct Bucket:  defines the structure for the Bucket structure. Each Bucket structure
 		is composed of an (int) minInitial, an (int) maxInitial, an (int) numWords,
