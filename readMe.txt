@@ -57,5 +57,5 @@ main.c -[Algorithm]:	The bucket sort algorithm is implemented in the main method
 			input while loop and subsequently executes the nested for/while 
 			loop at the bottom of the main method. Together, these for/while
 			loops iterate through the nodes in each bucket, printing out their
-			string values in alphabetical order.
+			string values in alphabetical order
  
